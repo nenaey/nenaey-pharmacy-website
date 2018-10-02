@@ -59,3 +59,40 @@
   color: white;
   text-align: center;
 }
+
+.screenshot > img {
+  width: 350px;
+  height: 350px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.screenshot{
+  width: 510px;
+  height: 510px;
+}
+
+.title{
+  font-size: 48px;
+  font-weight: bolder;
+  background-color: white;
+  color: #af1116;
+  height: 100px;
+  width: 1300px;
+  border-top: 0;
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+.app{
+  display: flex;
+}
+
+.description{
+  font-weight:normal;
+  font-style: normal;
+  margin-left: 20px;
+  margin-top:40px;
+  font-size: larger;
+  }
+  
