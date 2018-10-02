@@ -1,0 +1,10 @@
+* {
+   outline: 0px solid red !important;
+}
+*{
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  margin: 0px;
+  box-sizing:border-box;
+}
