@@ -8,3 +8,35 @@
   margin: 0px;
   box-sizing:border-box;
 }
+
+.buttons{
+  display: flex;
+  background-color: black;
+  height: 30px;
+}
+.home> a:link{
+    color: white;
+}
+.home> a:visited{
+  color: yellow;
+}
+.about> a:link{
+    color: white;
+}
+.about> a:visited{
+  color: yellow;
+}
+.contact> a:link{
+    color: white;
+}
+.contact> a:visited{
+  color: yellow;
+}
+.home{
+  padding-left: 1em;
+  padding-right: 5em;
+}
+
+.about{
+  padding-right: 4em;
+}
